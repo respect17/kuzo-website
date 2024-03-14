@@ -5,9 +5,9 @@ import Hero from './Hero';
 
 const navigation = [
   { name: 'Home', href: '/' },
-  { name: 'Why Us?', href: '#about' },
+  { name: 'Why Me?', href: '#about' },
   { name: 'Services', href: '#services' },
-  { name: 'Our Work', href: '#projects' },
+  { name: 'My Work', href: '#projects' },
   { name: 'Get Free Quote', href: 'mailto:hello@lekkercommerce.co.za' },
 ]
 
